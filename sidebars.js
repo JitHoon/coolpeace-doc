@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  quide: ["guide/dashboad", "guide/login-join"],
+  guide: ["guide/dashboad", "guide/login-join"],
   team: [
     "contributors",
     {

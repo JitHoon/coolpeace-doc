@@ -8,7 +8,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://cool-peace-dev.vercel.app",
-  baseUrl: "/",
+  baseUrl: "/docs/guide/dashboad",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -52,7 +52,7 @@ const config = {
         items: [
           {
             label: "이용 가이드",
-            sidebarId: "quide",
+            sidebarId: "guide",
             type: "docSidebar",
             position: "right",
           },
