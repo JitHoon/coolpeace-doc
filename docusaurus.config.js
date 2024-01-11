@@ -7,8 +7,8 @@ const config = {
   tagline: "사용하기 Cool~한 백오피스",
   favicon: "img/favicon.ico",
 
-  url: "https://cool-peace-dev.vercel.app",
-  baseUrl: "/docs/guide/dashboad",
+  url: "https://cool-peace-dev.vercel.appdocs/guide/dashboad",
+  baseUrl: "/",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
